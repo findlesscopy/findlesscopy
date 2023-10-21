@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=José+Manuel+Ibarra+Pirir&#128640;Computer+Science+Student&#128126;Active+Learner/Researcher &#129488;Love+to+learn+new+stuffs!&#128568 )](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!](https://readme-typing-svg.demolab.com/?lines=José+Manuel+Ibarra+Pirir&#128640;Computer+Science+Student&#128126;Active+Learner/Researcher &#129488;Love+to+learn+new+stuffs!&#128568 &font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
